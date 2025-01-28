@@ -1,5 +1,7 @@
 # Dashboard Description
 
+![Dashboard](images/example.png)
+
 ## This Tableau dashboard offers a strategic overview of crime-related data in Springfield, intended for a Chief Officer. It focuses on three key areas:
 
 *Crime Reporting Rates*: Visualizes the percentage of crimes not being reported for each postal area. This is crucial for understanding the extent of underreporting and identifying areas where outreach efforts are most needed.
