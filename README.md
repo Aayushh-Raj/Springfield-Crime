@@ -1,6 +1,6 @@
 # Dashboard Description
 
-![Dashboard](images/example.png)
+![Dashboard](Dashboard_Springfield_Crime.png)
 
 ## This Tableau dashboard offers a strategic overview of crime-related data in Springfield, intended for a Chief Officer. It focuses on three key areas:
 
