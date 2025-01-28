@@ -1,6 +1,6 @@
-#Dashboard Description
+# Dashboard Description
 
-##This Tableau dashboard offers a strategic overview of crime-related data in Springfield, intended for a Chief Officer. It focuses on three key areas:
+## This Tableau dashboard offers a strategic overview of crime-related data in Springfield, intended for a Chief Officer. It focuses on three key areas:
 
 *Crime Reporting Rates*: Visualizes the percentage of crimes not being reported for each postal area. This is crucial for understanding the extent of underreporting and identifying areas where outreach efforts are most needed.
 
@@ -8,9 +8,9 @@
 
 *Crime Trends*: Tracks the count of crimes over time for each postal region. This allows for the identification of emerging hotspots and potential trends that require proactive intervention.
 
-#Insights
+# Insights
 
-##Here are some preliminary insights:
+## Here are some preliminary insights:
 
 *Postal Region 22151*: This region appears to have a concerningly high percentage of unreported crimes. This suggests a need for targeted community outreach programs to encourage reporting and build trust between residents and law enforcement.
 
